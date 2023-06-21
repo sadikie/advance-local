@@ -1,0 +1,22 @@
+.table-container{
+    border: 1px solid #dedede;
+    border-radius: 4px;
+}
+
+.table{
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    border-collapse: collapse;
+}
+.table td, .table th {
+    padding: 0.75rem;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dedede;
+}
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dedede;
+}

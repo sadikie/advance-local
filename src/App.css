@@ -1,0 +1,17 @@
+.container {
+  margin: 50px auto;
+  
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 20px;
+}
+
+
+.header {
+  color: #202029;
+}
+
+
